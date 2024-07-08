@@ -8,7 +8,7 @@
       },
       {
         "text": "Contact Us",
-        "url": "hello@throughput.network"
+        "url": "mailto:hello@throughput.network"
       }
     ]
   },
@@ -35,7 +35,7 @@
       {
         "text": "Analog Mutations",
         "url": "https://analogmutations.com"
-      },
+      }
     ]
   }
 ]
