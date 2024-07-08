@@ -1,14 +1,14 @@
 [
   {
-    "title": "Developers",
+    "title": "About Throughput",
     "links": [
       {
-        "text": "Documentation",
-        "url": "https://docs.base.org/"
+        "text": "About",
+        "url": "https://throughput.network/"
       },
       {
-        "text": "GitHub",
-        "url": "https://github.com/base-org"
+        "text": "Contact Us",
+        "url": "hello@throughput.network"
       }
     ]
   },
@@ -17,24 +17,15 @@
     "links": [
       {
         "text": "Twitter",
-        "url": "https://twitter.com/buildonbase"
+        "url": "https://twitter.com/0xthroughput"
       },
       {
-        "text": "Discord",
-        "url": "https://base.org/discord"
+        "text": "Medium",
+        "url": "https://medium.com/@0xThroughput"
       },
       {
-        "text": "Blog",
-        "url": "https://base.mirror.xyz/"
-      }
-    ]
-  },
-  {
-    "title": "About Base",
-    "links": [
-      {
-        "text": "About",
-        "url": "https://base.org/about"
+        "text": "Telegram",
+        "url": "https://t.me/ThroughputBlockchain"
       }
     ]
   },
@@ -42,21 +33,9 @@
     "title": "Partners",
     "links": [
       {
-        "text": "MetaSuites",
-        "url": "https://blocksec.com/metasuites"
+        "text": "Analog Mutations",
+        "url": "https://analogmutations.com"
       },
-      {
-        "text": "Sourcify",
-        "url": "https://sourcify.dev/"
-      },
-      {
-        "text": "DRPC",
-        "url": "https://drpc.org?ref=559183"
-      },
-      {
-        "text": "BlockSec",
-        "url": "https://blocksec.com/"
-      }
     ]
   }
 ]
