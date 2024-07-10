@@ -3,10 +3,14 @@
     "title": "About Us",
     "links": [
       {
+        "icon": 'social/twitter' as const,
+        "iconSize": '18px',
         "text": "About",
         "url": "https://throughput.network/"
       },
       {
+        "icon": 'social/twitter' as const,
+        "iconSize": '18px',
         "text": "Contact Us",
         "url": "mailto:hello@throughput.network"
       }
